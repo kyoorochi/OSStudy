@@ -1,8 +1,7 @@
 # 컴퓨터 하드웨어 구조
 ![컴퓨터 하드웨어 구성](screenshot/01.jpg)
-
-## 1. CPU의 구성요소인 ALU, CU, 그리고 레지스터 각각의 역할
 ```
+## 1. CPU의 구성요소인 ALU, CU, 그리고 레지스터 각각의 역할
 ![CPU](screenshot/02.jpg)
 ```
 ### 1. ALU (Arithmetic and Logical Unit - 산술 논리 장치)
