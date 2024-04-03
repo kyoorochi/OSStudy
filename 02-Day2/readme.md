@@ -1,3 +1,6 @@
+## 2일차 과제 클리어
+![](screenshot/09.jpg)
+
 ### 1. getpid.py 파일 테스트
 ![](screenshot/01.jpg)
 
