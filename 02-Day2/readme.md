@@ -11,3 +11,7 @@
 ![](screenshot/04.jpg)
 ![](screenshot/05.jpg)
 ![](screenshot/06.jpg)
+
+### 5. 스레드 테스트
+![](screenshot/07.jpg)
+![](screenshot/08.jpg)
