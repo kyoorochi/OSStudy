@@ -4,5 +4,5 @@
 ### 2. FindProcess.py 파일 테스트
 ![](screenshot/02.jpg)
 
-### 2. FindProcess.py 파일 테스트
+### 3. FindProcess.py 파일 테스트
 ![](screenshot/03.jpg)
