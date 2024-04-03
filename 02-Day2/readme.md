@@ -6,3 +6,8 @@
 
 ### 3. FindProcess.py 파일 테스트
 ![](screenshot/03.jpg)
+
+### 4. 멀티프로세스 테스트
+![](screenshot/04.jpg)
+![](screenshot/05.jpg)
+![](screenshot/06.jpg)
