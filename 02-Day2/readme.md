@@ -1,4 +1,4 @@
-## 2일차 과제 클리어
+## 2일차 과제 클리어 (10-homework.py)
 ![](screenshot/09.jpg)
 
 ### 1. getpid.py 파일 테스트
